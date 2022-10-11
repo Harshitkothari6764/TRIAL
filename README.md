@@ -1,3 +1,0 @@
-# TRIAL
- TRIAL IN GIT
-EDIR
